@@ -1,0 +1,12 @@
+.git
+.gitignore
+.venv
+.vscode
+**/__pycache__
+**/.pytest_cache
+**/.mypy_cache
+**/*.pyc
+backend/.env
+backend/.venv
+backup
+data
